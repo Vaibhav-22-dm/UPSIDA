@@ -45,6 +45,8 @@
             arr.classList.add('active_application_tab')
             generate_form(arr, index)
             generate_form_1(index)
+            $(".application_container").slideUp(1000);
+            $(".tracker_container").slideUp(1000);
             console.log(document.querySelector('.active_application_tab'))
         })
     })
