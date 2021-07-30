@@ -610,7 +610,7 @@ svg {
 
 @media (max-width: 1500px) and (min-width: 707px) {
   .loader {
-    padding-bottom: 300px;
+    padding-bottom: 400px;
   }
   .gear {
     margin-bottom: 50px;
@@ -619,7 +619,7 @@ svg {
 
 @media (max-width: 707px) {
   .loader {
-    padding-bottom: 225px;
+    padding-bottom: 355px;
   }
   .gear {
     margin-bottom: 1px;
@@ -633,7 +633,7 @@ svg {
 }
 
 .gear {
-  height: 10%;
+  height: 15%;
   width: 240px;
   display: flex;
   justify-content: flex-end;
