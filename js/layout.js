@@ -61,8 +61,8 @@ document.getElementsByTagName('footer')[0].innerHTML = `
     <span class="email">Email: </span>
     <div class="member_social social_links">
         <a href="#"><img src="images/Koo_Logo_SVG_mifeb6.png" alt="" srcset=""></a>
-        <a href="#"><img src="images/facebook.png" alt="" srcset=""></a>
-        <a href="#"><img src="images/twitter.png" alt="" srcset=""></a>
+        <a href="https://www.facebook.com/UPSIDAGoUP"><img src="images/facebook.png" alt="" srcset=""></a>
+        <a href="https://twitter.com/upsida"><img src="images/twitter.png" alt="" srcset=""></a>
     </div>
 </div>
 <div class="contact_us_form">
