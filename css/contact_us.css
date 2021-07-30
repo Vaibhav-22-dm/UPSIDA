@@ -173,10 +173,15 @@
     width: 100%;
     padding: 3px;
     margin: 3px 3px;
-    background-color: rgb(118 226 246 / 69%);
+    background-color: rgb(153, 209, 223);
     /* background-color: rgba(153, 209, 223, 0.5); */
     /* border-radius: 5px; */
     text-align: center;
+  }
+
+  .headoffice_b{
+    background-color:rgb(69, 162, 224);
+    font-size: 110%;
   }
 
   .right_contact {
