@@ -191,12 +191,14 @@
   .headoffice_cont {
     display: flex;
     flex-direction: column;
+    background-color: rgb(118 226 246 / 69%);
   }
 
   .regionaloffice_cont,
   .divisionaloffice_cont {
     display: none;
     flex-direction: column;
+    background-color: rgb(118 226 246 / 69%);
   }
 
   .post,
