@@ -698,12 +698,20 @@ svg {
 
 
 #marquee-cont {
-  background: #f4f4f4;
-  margin-top:10px;
+  /* background: #f4f4f4; */
+  margin:20px;
+  width: 90%;
 }
 #marquee-cont marquee {
   margin-top: 5px;
+  color: #000000;
 }
+
+marquee a{
+  color: black;
+  text-decoration: none;
+}
+
 #marquee-news {
   
   background: #1174A8;

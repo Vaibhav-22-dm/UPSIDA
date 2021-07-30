@@ -40,7 +40,7 @@ const news = ["Lorem Ipsum is simply dummy text of the printing and typesetting 
 "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary."]
 
 //logo
-const logo = "<img src='https://www.naishare.com/images/favicon.png' width='25px' style='margin:0 8px'/>";
+const logo = "<img src='https://www.onlineupsidc.com/images/new_red.gif' width='25px' style='margin:0 8px'/>";
 let tickerText = "";
 //looping through the news array
 for(let i=0; i<news.length; i++){
@@ -51,4 +51,4 @@ for(let i=0; i<news.length; i++){
   }
 }
 
-document.querySelector("#scroll").innerHTML = tickerText;
+document.querySelector("#scroll a").innerHTML = tickerText;
