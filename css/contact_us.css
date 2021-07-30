@@ -130,6 +130,7 @@
   }
   .contact {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     /* margin: 2px; */
     margin-right: 5px;
@@ -138,7 +139,7 @@
     margin: 1px;
     font-size: 85%;
     margin-right: 5px;
-    padding: 1px 3px;
+    padding: 1px 5px;
   }
   .address {
     /* margin: 3px; */
