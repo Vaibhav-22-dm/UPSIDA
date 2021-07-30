@@ -236,14 +236,15 @@
   .project_name {
     font-weight: bold;
     color: #008d92;
+    padding: 0 5px;
   }
   .name {
     font-size: 20px;
+    padding: 0 5px;
   }
   .contact {
     display: flex;
     flex-wrap: wrap;
-    margin: 2px;
     margin-right: 5px;
   }
   span {
@@ -253,6 +254,6 @@
     padding: 1px 3px;
   }
   .address {
-    margin: 3px;
+    padding: 5px;
   }
 }
