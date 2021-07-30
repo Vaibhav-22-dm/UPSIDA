@@ -1,8 +1,8 @@
 // mega investment slider
 const prevIcon =
-  '<img src="/images/back_button.svg" alt:"&larr;">';
+  '<img src="images/back_button.svg" alt:"&larr;">';
 const nextIcon =
-  '<img src="/images/front_button.svg" alt:"&rarr;">';
+  '<img src="images/front_button.svg" alt:"&rarr;">';
 $(".owl-carousel").owlCarousel({
   loop: true,
   margin: 100,
