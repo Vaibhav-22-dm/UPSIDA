@@ -421,8 +421,8 @@ svg {
   display: flex;
   flex-direction: column;
   padding: 10px;
-  border-radius: 10px;
-  background: rgb(142, 221, 221);
+  /* border-radius: 10px; */
+  background: rgb(125 195 255 / 55%);
   box-shadow: 1px 1px 5px grey;
 }
 
@@ -438,6 +438,7 @@ svg {
 .letter_date {
   padding: 5px 0;
   font-family: "Rajdhani", sans-serif;
+  border-bottom: 1px solid grey;
 }
 
 .news_updates {
@@ -516,8 +517,8 @@ svg {
   height: 250px;
   display: inline-block;
   padding: 10px;
-  background: rgb(142, 221, 221);
-  border-radius: 10px;
+  background: rgb(125 195 255 / 55%);
+  /* border-radius: 10px; */
   box-shadow: 1px 1px 5px grey;
   margin: 9px;
 }
@@ -574,7 +575,7 @@ svg {
 
 .video_gallery iframe {
   max-width: 400px;
-  min-width: 360px;
+  min-width: 310px;
   width: 50%;
   height: 280px;
   padding: 0 20px;
@@ -595,6 +596,7 @@ svg {
 
   .video_gallery iframe {
     margin-bottom: 20px;
+    width: 70%;
   }
 }
 
