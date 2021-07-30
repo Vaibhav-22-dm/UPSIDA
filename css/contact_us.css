@@ -51,6 +51,7 @@
   .divisionaloffice_b:hover{
     color: whitesmoke;
     transform: scale(1.06);
+    cursor: pointer;
   }
 
   
