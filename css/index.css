@@ -311,6 +311,10 @@ svg {
     margin-top: 130px;
   }
 
+  .landing_heading h1{
+    text-shadow: 3px 1px 0px #000000;
+  }
+
   .landing_heading p {
     font-size: 20px;
     padding: 35px;
