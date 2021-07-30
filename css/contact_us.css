@@ -31,7 +31,7 @@
     padding: 10px;
     margin: 3px 3px;
     /* background-color: rgb(153, 209, 223); */
-    background-color: rgb(69, 162, 224);
+    background-color: rgb(153, 209, 223);
 
     /* border-radius: 7px; */
     font-size: 100%;
@@ -79,7 +79,6 @@
   .divisionaloffice_cont {
     display: none;
     flex-direction: column;
-    background-color: rgb(153, 209, 223) !important;
   }
 
   .post,
