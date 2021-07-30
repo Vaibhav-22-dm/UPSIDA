@@ -79,7 +79,7 @@
   .divisionaloffice_cont {
     display: none;
     flex-direction: column;
-    background-color: rgb(118 226 246 / 69%);
+    background-color: rgb(153, 209, 223) !important;
   }
 
   .post,
