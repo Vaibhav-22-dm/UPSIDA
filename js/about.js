@@ -31,7 +31,7 @@ $(".owl-carousel").owlCarousel({
 // achievments counter
 
 const counters = document.querySelectorAll('.cont_counter')
-const speed = 400;
+const speed = 500;
 
 counters.forEach(counter => {
   const updateCount = () => {
