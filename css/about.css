@@ -5,13 +5,12 @@ html {
 #head_text {
   display: flex;
   position: relative;
-  z-index: -1;
   justify-content: center;
   text-align: center;
-  font-size: 3.5em;
+  font-size: 3em;
   color: #4b6689;
-  margin-top: 3.5em;
-  margin-bottom: 1.5em;
+  margin-top: 2.8em;
+  margin-bottom: 0.5em;
 }
 
 #body {
