@@ -620,7 +620,7 @@ svg {
 
 @media (max-width: 707px) {
   .loader {
-    padding-bottom: 285px;
+    padding-bottom: 225px;
   }
   .gear {
     margin-bottom: 1px;
