@@ -1,6 +1,6 @@
 
 .resource_parent_container{
-    margin-top: 150px;
+    margin-top: 200px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -93,6 +93,12 @@
     display: none;
 }
 
+@media screen and (max-width:1321px){
+    .resource_parent_container{
+        margin-top: 160px;
+    }
+}
+
 
 @media screen and (max-width:1300px){
     .resource_menu_items{
@@ -114,6 +120,10 @@
 
 @media screen and (max-width:850px){
     
+    .resource_parent_container{
+        margin-top: 110px;
+    }
+
     .resource_container{
         width: 90%;
     }
@@ -139,6 +149,7 @@
 
     .resource_menu_items{
         margin: 1px 0;
+        background-color: #345677;
     }
 
     .resource_menu_heading{
