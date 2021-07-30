@@ -13,8 +13,9 @@
     width: 85%;
     display: flex;
 
-    background-color: #efefef;
-    border-radius: 10px;
+    /* background-color: #efefef; */
+    background-color: rgb(65 217 255 / 16%);
+    /* border-radius: 10px; */
     box-shadow: 1px 1px 20px grey;
   }
   .left_contact {
@@ -29,9 +30,10 @@
   .divisionaloffice_b {
     padding: 10px;
     margin: 3px 3px;
-    background-color: rgb(153, 209, 223);
+    /* background-color: rgb(153, 209, 223); */
+    background-color: rgb(69, 162, 224);
 
-    border-radius: 7px;
+    /* border-radius: 7px; */
     font-size: 100%;
     text-align: center;
   }
@@ -64,11 +66,13 @@
     margin: 20px;
     background-color: #e0ebeb;
     padding: 15px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
   }
   .headoffice_cont {
     display: flex;
     flex-direction: column;
+    padding: 5px;
+    background-color: rgb(118 226 246 / 69%);
   }
 
   .regionaloffice_cont,
@@ -83,10 +87,14 @@
   .civil,
   .electrical {
     display: flex;
-    background-color: rgb(157, 193, 222);
+    /* background-color: rgb(157, 193, 222); */
     font-size: 25px;
-    border-radius: 5px;
-    padding: 2px 10px;
+    /* border-radius: 5px; */
+    /* padding: 2px 10px; */
+    padding: 7px 0;
+    margin: 0 20px;
+    width: 90%;
+    border-bottom: 1px solid black;
   }
 
   .officer,
@@ -95,6 +103,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    width: 90%;
+    margin: 0 10px;
   }
   .details {
     width: 47%;
