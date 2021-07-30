@@ -158,7 +158,7 @@
             var scroll = $(window).scrollTop();
             if (scroll >= 500) {
                 document.querySelector('.upper_arrow img').style.transform = "rotateZ(90deg)"
-                document.querySelector('.upper_arrow').href="#header"
+                document.querySelector('.upper_arrow').href="#flagship_container_id"
             } else {
                 document.querySelector('.upper_arrow img').style.transform = "rotateZ(-90deg)"
                 document.querySelector('.upper_arrow').href="#project_info"
