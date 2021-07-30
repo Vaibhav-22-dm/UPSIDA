@@ -49,7 +49,7 @@ document.getElementsByTagName('footer')[0].innerHTML = `
 </div>
 <div class="contact_info">
     <div class="footer_logo">
-        <img src="/images/upsida logo.png" alt="" srcset="">
+        <img src="images/upsida logo.png" alt="" srcset="">
     </div>
     <div class="address">
         <span>USIDC Complex</span>
@@ -60,9 +60,9 @@ document.getElementsByTagName('footer')[0].innerHTML = `
     <span class="fax">Fax: 0512-2580797</span>
     <span class="email">Email: </span>
     <div class="member_social social_links">
-        <a href="#"><img src="/images/Koo_Logo_SVG_mifeb6.png" alt="" srcset=""></a>
-        <a href="#"><img src="/images/facebook.png" alt="" srcset=""></a>
-        <a href="#"><img src="/images/twitter.png" alt="" srcset=""></a>
+        <a href="#"><img src="images/Koo_Logo_SVG_mifeb6.png" alt="" srcset=""></a>
+        <a href="#"><img src="images/facebook.png" alt="" srcset=""></a>
+        <a href="#"><img src="images/twitter.png" alt="" srcset=""></a>
     </div>
 </div>
 <div class="contact_us_form">
