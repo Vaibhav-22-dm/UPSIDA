@@ -16,6 +16,17 @@
 
 }
 
+.policies_heading{
+    position: relative;
+    display: flex;
+    font-size: 40px;
+    font-weight: bold;
+    color: #4b6689;
+    margin-top: 140px;
+    padding: 20px;
+    justify-content: center;
+}
+
 .policies_parent_container{
     position: relative;
     width: 100%;
@@ -98,7 +109,7 @@ iframe{
 
 .policy_heading{
     display: none;
-    background-color: rgb(230 246 252);
+    background-color: rgb(158 218 216);
 }
 
 .policies_menu{
