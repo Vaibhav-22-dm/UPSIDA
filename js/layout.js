@@ -49,7 +49,7 @@ document.getElementsByTagName('footer')[0].innerHTML = `
 </div>
 <div class="contact_info">
     <div class="footer_logo">
-        <img src="images/upsida logo.png" alt="" srcset="">
+        <img src="images/upsida_logo.png" alt="" srcset="">
     </div>
     <div class="address">
         <span>USIDC Complex</span>
