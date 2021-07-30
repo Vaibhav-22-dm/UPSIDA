@@ -30,4 +30,4 @@ let hidePreloader = () => {
 
 let webpage = document.querySelector('html')
 
-document.addEventListener('DOMContentLoaded', setTimeout(hidePreloader, 1500))
+document.addEventListener('DOMContentLoaded', setTimeout(hidePreloader, 4500))
