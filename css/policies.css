@@ -1,12 +1,4 @@
 
-@media screen and (max-width: 707px){
-
-
-    .UPSIDA_policies_container{
-        margin: 20vw auto !important;
-    }
-}
-
 
 @media screen and (max-width:435px){
     .policy_name, .other_policies, .policies_file, .policy{
@@ -39,7 +31,8 @@
     max-width: 1200px;
     display: flex;
     flex-direction: row;
-    margin: 170px auto;
+    margin: 40px auto;
+    margin-bottom:140px;
     justify-content: space-between;
 }
 
