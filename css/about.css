@@ -111,6 +111,8 @@ html {
   display: flex;
   justify-content: center;
   font-size: 200%;
+  font-weight: bold;
+  color: #4b6689;
 }
 
 #acc_main {
@@ -164,6 +166,7 @@ html {
 #investments {
   margin-bottom: 100px;
 }
+
 .mega-investments {
   display: flex;
   align-items: center;
@@ -171,6 +174,7 @@ html {
   font-size: 200%;
   font-weight: bold;
   text-align: center;
+  color: #4b6689;
 }
 
 .invest_container {
