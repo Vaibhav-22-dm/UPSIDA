@@ -64,6 +64,12 @@
     border-right: 1px solid grey;
 }
 
+.policies_files_tab .policies_file:first-child{
+     background-color:rgb(70 193 241);
+}
+    
+    
+
 .policies_file:hover{
     cursor: pointer;
     background-color:rgb(70 193 241);
