@@ -88,6 +88,6 @@
     document.querySelectorAll('.policies_file').forEach((arr) => {
         arr.addEventListener('click', () => {
             document.querySelectorAll('.policies_file').forEach(arr_1 => arr_1.style.background = "skyblue")
-            arr.style.background = "rgb(230 246 252)"
+            arr.style.background = "rgb(70 193 241)"
         }) 
     })
