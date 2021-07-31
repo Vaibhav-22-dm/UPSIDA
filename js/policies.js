@@ -2,26 +2,26 @@
     var clicked = 1
     const pdf_sources = [
         ["https://drive.google.com/file/d/1ONBP899VQXBLjHZtf3oZfgGiA8gRnenm/preview",
-        "https://drive.google.com/file/d/1GK_VHVvbN84aEMDbseEJOJLohQNzhKDp/preview"],
+        "https://drive.google.com/file/d/1KlFypZWdJ0igdvpTUSzfefcE_oojFe5F/preview"],
         ["https://drive.google.com/file/d/1gvn3wNYK5XPNmVj8t0gwoVKnPEzgNVSP/preview",
         "https://drive.google.com/file/d/1EImOTM3O9uJ-dWefY06dqScoii2aH4t4/preview", 
-        "https://drive.google.com/file/d/1gvn3wNYK5XPNmVj8t0gwoVKnPEzgNVSP/preview",
-        "https://drive.google.com/file/d/1k9x7fzcwyl2iYJpmNM0P8qlL0-iAUH_y/preview",
-        "https://drive.google.com/file/d/1VPzDZ46JkVPQop6z7RsT7tB66iG_W9am/preview"],
+        "https://drive.google.com/file/d/1JF9rrf8dgP2k8-5Vk25KdKsZCbZTc8mS/preview",
+        "https://drive.google.com/file/d/1wA0UwyqzNq3DAUXr3TpaCxCUQ0EBekvQ/preview",
+        "https://drive.google.com/file/d/1DkkcPutt6Psa0DLqS49DRCwpkmxbNgbh/preview"],
         ["https://drive.google.com/file/d/1xum7ZNilMPZ6upRA2mFBrs3vANi71Yxv/preview",
-        "https://drive.google.com/file/d/1TJrL2CgtGXxOPkJd6cgfAyFjOpptEN8S/preview"],
+        "https://drive.google.com/file/d/1X7oc79w4EqZTtfvc73KrJwxGgIexkx1-/preview"],
         ["https://drive.google.com/file/d/1NVvuJJTQOWHtDixKnu5FazIfcT6i5XFi/preview",
-        "https://drive.google.com/file/d/1BJE4UKTWs_RdUzz1rIt3cajp5Dz8n2Hp/preview"],
-        ["https://drive.google.com/file/d/1BJE4UKTWs_RdUzz1rIt3cajp5Dz8n2Hp/preview"],
-        ["https://drive.google.com/file/d/1XOvfliATyRaZtZ4c6KCliQSmr-vgG-8f/preview"],
+        "https://drive.google.com/file/d/1-5xeKTRLvrG_GnLaoPe7qs5xp-88o8AQ/preview"],
+        ["https://drive.google.com/file/d/1d2HyHnGtk3LaCsO-OiXO21kShcluB23b/preview"],
+        ["https://drive.google.com/file/d/11Csgx3365fKjzAm2hoL1c-cXig8Sfl0C/preview"],
         ["https://drive.google.com/file/d/1x_I_AdyyTdOdfLslQ5okv4HaKA01nGLf/preview",
         "https://drive.google.com/file/d/1S_vjuEVXwo_G4N-Cr5HnuMNg_6PtYpWH/preview",
-        "https://drive.google.com/file/d/1pCNpWtMsF2a0hJSmi93ocsvspj1RwEjl/preview",
-        "https://drive.google.com/file/d/1FArtahStZuSt8vyynHkvO3K9J9t6IS7_/preview",
-        "https://drive.google.com/file/d/1GNm1trSBhrVTV4XeXM7dJO-YmBkmv4Gl/preview"],
-        ["https://drive.google.com/file/d/104D9Q8ZhMdE_av0L3sABRCoMXu4rLzpz/preview"],        
+        "https://drive.google.com/file/d/1pkfI9PuO3GorY2TYTK8VS88rIqSDJwDN/preview",
+        "https://drive.google.com/file/d/1wceoKsXnRv_yakBBJGSpWm065Of-P_ln/preview",
+        "https://drive.google.com/file/d/1uylRqL9GFufurSHxhVk8sEEiuli5yItA/preview"],
+        ["https://drive.google.com/file/d/1SuabvYxCFHYgeLbmmLJWw2TBy-anm26V/preview"],        
         ["https://drive.google.com/file/d/1bXAM52Refaq2hNhu5EcBzsUss61sz80d/preview",
-        "https://drive.google.com/file/d/10IsuTd0e0IYl99db3nbsV9afiLblGcTn/preview"]
+        " https://drive.google.com/file/d/1kfRwVsdc09XChBUzE2KvtcisL7zZvWhW/preview"]
     ]
     
     const pdf_viewer = document.querySelector(".viewer")
