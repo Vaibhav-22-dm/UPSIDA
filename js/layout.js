@@ -2,7 +2,7 @@ document.getElementsByTagName('header')[0].innerHTML = `
 <img src="images/Vector 7.png" alt="" srcset="" class="header_vector">
 <nav>
     <div class="logo">
-        <img src="https://vaibhav-22-dm.github.io/UPSIDA/images/upsida_logo.png" alt="" srcset="" class="header_logo">
+        <a href="index.html"><img src="https://vaibhav-22-dm.github.io/UPSIDA/images/upsida_logo.png" alt="" srcset="" class="header_logo"></a>
         <div class="hamburger_menu">
             <div class="ham_line"></div>
             <div class="ham_line"></div>
