@@ -1,12 +1,4 @@
 
-@media screen and (max-width: 707px){
-
-
-    .UPSIDA_policies_container{
-        margin: 20vw auto !important;
-    }
-}
-
 
 @media screen and (max-width:435px){
     .policy_name, .other_policies, .policies_file, .policy{
@@ -14,6 +6,17 @@
     }
 
 
+}
+
+.policies_heading{
+    position: relative;
+    display: flex;
+    font-size: 40px;
+    font-weight: bold;
+    color: #4b6689;
+    margin-top: 140px;
+    padding: 20px;
+    justify-content: center;
 }
 
 .policies_parent_container{
@@ -28,7 +31,8 @@
     max-width: 1200px;
     display: flex;
     flex-direction: row;
-    margin: 170px auto;
+    margin: 40px auto;
+    margin-bottom:140px;
     justify-content: space-between;
 }
 
@@ -98,7 +102,7 @@ iframe{
 
 .policy_heading{
     display: none;
-    background-color: rgb(230 246 252);
+    background-color: rgb(158 218 216);
 }
 
 .policies_menu{
