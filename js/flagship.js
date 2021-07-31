@@ -3,8 +3,8 @@
                     'SARASWATI HI-TECH CITY ALLAHABAD',
                     'PERFUME CITY, KANNAUJ',
                     'TRANS-DELHI SIGNATURE CITY, GAZIABAD',
-                    'PLASTIC CITY, AURARIA',
-                    'AMRITSAR KOLKATA INDUSTRIAL CORRIDOR, AURARIA']
+                    'PLASTIC CITY, AURAIA',
+                    'AMRITSAR KOLKATA INDUSTRIAL CORRIDOR']
 
     document.querySelectorAll('.project_read_btn').forEach((arr, index) => {
         arr.addEventListener('click', () => {
