@@ -1,7 +1,7 @@
 
     project_names = ['TRANS-GANGA HI-TECH CITY, UNNAO',
                     'SARASWATI HI-TECH CITY ALLAHABAD',
-                    'PERFUME CITY, KANNAUJ',
+                    'PERFUME PARK, KANNAUJ',
                     'TRANS-DELHI SIGNATURE CITY, GAZIABAD',
                     'PLASTIC CITY, AURAIA',
                     'AMRITSAR KOLKATA INDUSTRIAL CORRIDOR']
