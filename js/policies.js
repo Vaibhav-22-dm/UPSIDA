@@ -67,6 +67,7 @@
                 index.classList.remove("active_tab")
             })
             arr.classList.add("active_tab")
+            $(".policies_menu").slideUp(1000);
             policy_name.innerHTML = arr.innerHTML
         })
         
