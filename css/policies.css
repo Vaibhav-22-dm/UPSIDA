@@ -43,7 +43,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: rgb(70, 193, 241);
-    border-radius:5px;
+    /* border-radius:5px; */
 }
 
 .policies_right_container{
@@ -74,7 +74,7 @@
     width: 92%;
     padding: 17px 3px;
     border: none;
-    border-radius:5px;
+    /* border-radius:5px; */
     font-size:15px;
 }
 
