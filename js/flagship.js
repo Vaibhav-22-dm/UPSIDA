@@ -1,8 +1,8 @@
 
     project_names = ['TRANS-GANGA HI-TECH CITY, UNNAO',
-                    'SARASWATI HI-TECH CITY ALLAHABAD',
+                    'SARASWATI HI-TECH CITY, ALLAHABAD',
                     'DIBIYAPUR PLASTIC PARK, AURAIYA',
-                    'PERFUME PARK, KANNAUJ',
+                    'PERFUME PARK, KANNUAJ',
                     'BAHERI INDUSTRIAL AREA, BAREILLY',
                     'MORADABAD SPECIAL ECONOMIC ZONE (SEZ), MORADABAD']
 
