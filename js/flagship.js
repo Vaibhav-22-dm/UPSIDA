@@ -1,10 +1,10 @@
 
     project_names = ['TRANS-GANGA HI-TECH CITY, UNNAO',
                     'SARASWATI HI-TECH CITY ALLAHABAD',
+                    'DIBIYAPUR PLASTIC PARK, AURAIYA',
                     'PERFUME PARK, KANNAUJ',
-                    'TRANS-DELHI SIGNATURE CITY, GAZIABAD',
-                    'PLASTIC CITY, AURAIA',
-                    'AMRITSAR KOLKATA INDUSTRIAL CORRIDOR']
+                    'BAHERI INDUSTRIAL AREA, BAREILLY',
+                    'MORADABAD SPECIAL ECONOMIC ZONE (SEZ), MORADABAD']
 
     document.querySelectorAll('.project_read_btn').forEach((arr, index) => {
         arr.addEventListener('click', () => {
