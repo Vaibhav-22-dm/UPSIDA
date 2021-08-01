@@ -162,7 +162,7 @@
                 <div class="investor_contact">
                 <div class="project_tab">
                     <img src="images/contact 1.png" alt="" srcset="" />
-                    <h2>INTERESTED INVESTORS MAY CONTACT HERE</h2>
+                    <h2>INTERESTED INVESTORS MAY CONTACT:</h2>
                 </div>
                 <div class="contact_content_container">
                     <span class="contact_name_investor">1. Shri Rakesh Jha</span>
