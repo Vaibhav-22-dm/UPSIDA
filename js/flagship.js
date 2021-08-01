@@ -156,6 +156,18 @@
                 </div>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3569.723091168576!2d80.34218071491513!3d26.52902888288854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c393d42bdebd9%3A0x565ca2daa4b7e02!2sTrans+Ganga+City!5e0!3m2!1sen!2sin!4v1510406627153" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
                 `
+
+                document.querySelector('.investor_contact').innerHTML = `
+                <div class="investor_contact">
+                <div class="project_tab">
+                    <img src="images/contact 1.png" alt="" srcset="" />
+                    <h2>INTERESTED INVESTORS MAY CONTACT HERE</h2>
+                </div>
+                <div class="contact_content_container">
+                    <span class="contact_name_investor">1. Shri Rakesh Jha</span>
+                    <span class="address_investor_contact">Project Officer, Trans Ganga<br>Gate No. 4 Shankarpur sarai Distt. Unnao.<br>Phone: 9839163052<br>Email: potransganga@upsidc.com</span>
+                </div>
+                `
             }
         })
     })
