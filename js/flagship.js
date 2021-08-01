@@ -117,7 +117,7 @@
                 document.querySelector('.project_investment').innerHTML = `
                 <div class="project_tab">
                     <img src="images/investment 2.png" alt="" srcset="">
-                    <h2>INVESTNMENT OPPORTUNITIES</h2>
+                    <h2>INVESTMENT OPPORTUNITIES</h2>
                 </div>
                 <div class="investment_content_container">
                     <div class="investment_content">
