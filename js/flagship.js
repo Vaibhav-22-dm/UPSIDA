@@ -50,60 +50,66 @@
                 <div class="usp_list">
                     <p>The project features are as follows:</p>
                     <div class="usp_item">
-                        <img src="images/image 5.png" alt="" class="usp_list_icon">
+                        <img src="images/image 5.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Provision of 24x7 power supply.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 6.png" alt="" class="usp_list_icon">
+                        <img src="images/image 6.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">International design standard.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 7.png" alt="" class="usp_list_icon">
-                        <span class="usp_item_text">Provision for mall, exhibition centre, golf course, commercial, residences and retail shops.</span>
+                        <img src="images/image 7.png" alt="" class="usp_list_icon" />
+                        <span class="usp_item_text">Provision for mall, exhibition centre, golf course, commercial,
+                            residences and retail shops.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 8.png" alt="" class="usp_list_icon">
+                        <img src="images/image 8.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Beautiful landscape with water bodies.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 9.png" alt="" class="usp_list_icon">
+                        <img src="images/image 9.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Ample green spaces.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 10.png" alt="" class="usp_list_icon">
+                        <img src="images/image 10.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Moderate and ambient temperature.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 11.png" alt="" class="usp_list_icon">
+                        <img src="images/image 12.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Self-sufficient in terms of water supply and sewage.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 12.png" alt="" class="usp_list_icon">
+                        <img src="images/image 11.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Adequately planned Sewerage Treatment Plant (STP).</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 13.png" alt="" class="usp_list_icon">
-                        <span class="usp_item_text">Utility infrastructure of water supply, roads, drains, street light.</span>
+                        <img src="images/image 13.png" alt="" class="usp_list_icon" />
+                        <span class="usp_item_text">Utility infrastructure of water supply, roads, drains, street
+                            light.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 14.png" alt="" class="usp_list_icon">
-                        <span class="usp_item_text">Multiple choices for industrial, commercial & residential areas  Planned commercial, residential and elementary infrastructure for industrial units.</span>
+                        <img src="images/image 18.png" alt="" class="usp_list_icon" />
+                        <span class="usp_item_text">Multiple choices for industrial, commercial & residential areas
+                            Planned commercial, residential and elementary infrastructure
+                            for industrial units.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 15.png" alt="" class="usp_list_icon">
+                        <img src="images/image 14.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Emergency infrastructure of police and fire stations..</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 16.png" alt="" class="usp_list_icon">
-                        <span class="usp_item_text">Independent overhead water tank to provide uninterrupted water supply.</span>
+                        <img src="images/image 15.png" alt="" class="usp_list_icon" />
+                        <span class="usp_item_text">Independent overhead water tank to provide uninterrupted water
+                            supply.</span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 17.png" alt="" class="usp_list_icon">
-                        <span class="usp_item_text">Ample parking facility with greenery in the area, providing a healthy surroundings.
+                        <img src="images/image 16.png" alt="" class="usp_list_icon" />
+                        <span class="usp_item_text">Ample parking facility with greenery in the area, providing a
+                            healthy surroundings.
                         </span>
                     </div>
                     <div class="usp_item">
-                        <img src="images/image 18.png" alt="" class="usp_list_icon">
+                        <img src="images/image 17.png" alt="" class="usp_list_icon" />
                         <span class="usp_item_text">Iconic towers to be designed along the Ganga riverfront</span>
                     </div>
                 </div>
