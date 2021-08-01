@@ -15,6 +15,7 @@
                 document.querySelector('.project_usp').innerHTML = 'Content not yet updated'
                 document.querySelector('.project_investment').innerHTML = 'Content not yet updated'
                 document.querySelector('.project_google_map').innerHTML = 'Content not yet updated'
+                document.querySelector('.investor_contact').innerHTML = 'Content not yet updated'
             }
             else{
                 document.querySelector('.project_info_heading').innerHTML = project_names[index]
