@@ -354,7 +354,11 @@
                 }    
                 
                 .project_google_map iframe{
-                  margin: 0;
+                   margin: 0;
+                }
+                
+                .project_read_btn{
+                   width: 35%;
                 }
                 
         }
