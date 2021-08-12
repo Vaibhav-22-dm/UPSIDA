@@ -347,3 +347,14 @@
             width: 50px;
             transition: all 0.5s ease-in-out;
         }
+
+        @media screen and (max-width:330px){
+                .project{
+                   min-width: 300px;
+                }    
+                
+                .project_google_map iframe{
+                  margin: 0;
+                }
+                
+        }
