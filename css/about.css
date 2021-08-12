@@ -277,7 +277,7 @@ html {
   }
   
   .owl-nav .owl-prev {
-    right: -50px;
+    left: -50px;
   }
   
   .owl-carousel .owl-item img {
